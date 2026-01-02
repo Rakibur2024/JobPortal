@@ -2,11 +2,9 @@ package com.embarkxx.microservice.Job.impl;
 
 import com.embarkxx.microservice.Job.JobRepository;
 import com.embarkxx.microservice.Job.JobService;
-import com.embarkxx.microservice.entity.Job;
+import com.embarkxx.microservice.Job.Job;
 import org.springframework.stereotype.Service;
 
-import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
 import java.util.Optional;
 

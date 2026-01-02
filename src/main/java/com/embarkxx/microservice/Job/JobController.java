@@ -1,6 +1,5 @@
 package com.embarkxx.microservice.Job;
 
-import com.embarkxx.microservice.entity.Job;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

@@ -1,8 +1,8 @@
-package com.embarkxx.microservice.Job;
+package com.embarkxx.microservice.Review;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public interface JobRepository extends JpaRepository<Job,Long> {
+public interface ReviewRepository extends JpaRepository<Review, Long> {
 }
